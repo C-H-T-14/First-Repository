@@ -2,3 +2,4 @@ Es la primera vez que ejecuto este programa, repasaré varias veces para poder m
 Se me empezó a complicar al inicio, pero creo que con el apoyo de videos, lo manejaré rapido
 Así que, he decidido que con apoyo gráfico podré avanzar más rápido ya que tengo un apoyo visual
 Así que espero funcione, porque esto como todos los programas no me quiere 
+Este es mi primer cambio en la segunda rama
