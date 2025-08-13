@@ -4,4 +4,4 @@ Así que, he decidido que con apoyo gráfico podré avanzar más rápido ya que 
 Así que espero funcione, porque esto como todos los programas no me quiere 
 Este es mi primer cambio en la segunda rama
 ppp
-123
+secuencia de números
